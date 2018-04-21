@@ -1,0 +1,24 @@
+C:\Users\aluno\Desktop\EX\ControleDeProblemas\Controle\bin\Debug\Controle.dll
+C:\Users\aluno\Desktop\EX\ControleDeProblemas\Controle\bin\Debug\Controle.pdb
+C:\Users\aluno\Desktop\EX\ControleDeProblemas\Controle\bin\Debug\Entidade.dll
+C:\Users\aluno\Desktop\EX\ControleDeProblemas\Controle\bin\Debug\Entidade.pdb
+C:\Users\aluno\Desktop\EX\ControleDeProblemas\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\EX\ControleDeProblemas\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\EX\ControleDeProblemas\Controle\obj\Debug\Controle.dll
+C:\Users\aluno\Desktop\EX\ControleDeProblemas\Controle\obj\Debug\Controle.pdb
+C:\Users\aluno\Downloads\ControleDeProblemas\Controle\bin\Debug\Controle.dll
+C:\Users\aluno\Downloads\ControleDeProblemas\Controle\bin\Debug\Controle.pdb
+C:\Users\aluno\Downloads\ControleDeProblemas\Controle\bin\Debug\Entidade.dll
+C:\Users\aluno\Downloads\ControleDeProblemas\Controle\bin\Debug\Entidade.pdb
+C:\Users\aluno\Downloads\ControleDeProblemas\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\ControleDeProblemas\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\ControleDeProblemas\Controle\obj\Debug\Controle.dll
+C:\Users\aluno\Downloads\ControleDeProblemas\Controle\obj\Debug\Controle.pdb
+E:\Topicos I _ DotNet\ControleDeProblemas\Controle\bin\Debug\Controle.dll
+E:\Topicos I _ DotNet\ControleDeProblemas\Controle\bin\Debug\Controle.pdb
+E:\Topicos I _ DotNet\ControleDeProblemas\Controle\bin\Debug\Entidade.dll
+E:\Topicos I _ DotNet\ControleDeProblemas\Controle\bin\Debug\Entidade.pdb
+E:\Topicos I _ DotNet\ControleDeProblemas\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+E:\Topicos I _ DotNet\ControleDeProblemas\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+E:\Topicos I _ DotNet\ControleDeProblemas\Controle\obj\Debug\Controle.dll
+E:\Topicos I _ DotNet\ControleDeProblemas\Controle\obj\Debug\Controle.pdb
